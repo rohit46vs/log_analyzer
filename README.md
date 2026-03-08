@@ -23,7 +23,7 @@ The final project in the cybersecurity learning series! A tool that reads and an
 ## How to Run
 
 ```bash
-py log_analyzer.py
+python log_analyzer.py
 ```
 
 ---
